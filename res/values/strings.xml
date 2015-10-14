@@ -4,5 +4,6 @@
     <string name="app_name">QQListview</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="btn_string">删除</string>
 
 </resources>
